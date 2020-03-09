@@ -6,7 +6,7 @@ numpy：1.18.1
 pandas：1.0.1
 
 ## 解题总结
-** numpy练习题：**    
+**numpy练习题：**      
 1. 第49题：将`np.set_printoptions(threshold=np.nan)`修改成`np.set_printoptions(threshold=np.inf)`
 2. 第75、80、98、100题不好理解
 
