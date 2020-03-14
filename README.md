@@ -18,10 +18,11 @@ matplotlib：3.2.0
 
 **seaborn练习题**
 1. seaborn高于0.8版本，需要显式使用seaborn样式：`sns.set()`
+2. 第2章，需要安装ipyweights（一个jupyter的插件）
 
 ## 参考资料
 1. [numpy练习题](https://github.com/rougier/numpy-100)
 2. [pandas练习题](https://github.com/guipsamora/pandas_exercises)
-3. [seaborn练习题](https://gitee.com/email4reg/Seaborn-1)
+3. [seaborn练习题](https://github.com/blueliberty/Seaborn)
 4. [Python数据分析，numpy、pandas及其思维导图](https://www.jianshu.com/p/9a9742693b0e)
 5. [这十套练习，教你如何用Pandas做数据分析](https://www.kesci.com/api/notebooks/5c69407b336a0d002c184f46/RenderedContent)
