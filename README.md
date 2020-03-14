@@ -16,6 +16,9 @@ matplotlib：3.2.0
 1. 第6章-Wind_Stats中的步骤7，将`data.shape[0] - data.isnull().sum()`修改成`data.notnull().sum()`
 2. 第6章-Wind_Stats中的步骤11，将`january_winds = data.query('month == 1')`修改成`january_winds = data[data.month == 1]`
 
+**seaborn练习题**
+1. seaborn高于0.8版本，需要显式使用seaborn样式：`sns.set()`
+
 ## 参考资料
 1. [numpy练习题](https://github.com/rougier/numpy-100)
 2. [pandas练习题](https://github.com/guipsamora/pandas_exercises)
