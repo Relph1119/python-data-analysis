@@ -1,6 +1,14 @@
 # 数据分析工具的学习记录
 &emsp;&emsp;其中包括pandas、numpy、seaborn等。  
 
+## 文件目录
+<pre>
+numpy_exercises---------------------numpy100题
+pandas_exercises--------------------pandas练习题
+question----------------------------问题分析与总结
+seaborn_exercises-------------------seaborn学习资料（包括matplotlib）
+</pre>
+
 ## 版本
 numpy：1.18.1  
 pandas：1.0.1  
@@ -21,6 +29,12 @@ matplotlib：3.2.0
 2. 第2章，需要安装ipyweights（一个jupyter的插件）
 3. 第4章，需要安装statsmodels库
 4. 第5章，2.7.1节中catplot通过kind设置图形显示类别，接口很简洁，也很方便
+
+## 主要贡献者（按首字母排名）
+[@胡锐锋-天国之影-Relph](https://github.com/Relph1119)
+
+## 未来计划
+1. scipy的学习
 
 ## 参考资料
 1. [numpy练习题](https://github.com/rougier/numpy-100)
