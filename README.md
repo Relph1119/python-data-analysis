@@ -19,6 +19,8 @@ matplotlib：3.2.0
 **seaborn练习题**
 1. seaborn高于0.8版本，需要显式使用seaborn样式：`sns.set()`
 2. 第2章，需要安装ipyweights（一个jupyter的插件）
+3. 第4章，需要安装statsmodels库
+4. 第5章，2.7.1节中catplot通过kind设置图形显示类别，接口很简洁，也很方便
 
 ## 参考资料
 1. [numpy练习题](https://github.com/rougier/numpy-100)
