@@ -1,5 +1,5 @@
 # 数据分析工具的学习记录
-&emsp;&emsp;其中包括pandas、numpy、seaborn等。  
+&emsp;&emsp;其中包括pandas、numpy、seaborn的练习题和学习资料，均使用jupyter notebook编写。  
 
 ## 文件目录
 <pre>
@@ -20,11 +20,11 @@ matplotlib：3.2.0
 1. 第49题：将`np.set_printoptions(threshold=np.nan)`修改成`np.set_printoptions(threshold=np.inf)`
 2. 第75、80、98、100题不好理解
 
-**pandas练习题**
+**pandas练习题**  
 1. 第6章-Wind_Stats中的步骤7，将`data.shape[0] - data.isnull().sum()`修改成`data.notnull().sum()`
 2. 第6章-Wind_Stats中的步骤11，将`january_winds = data.query('month == 1')`修改成`january_winds = data[data.month == 1]`
 
-**seaborn练习题**
+**seaborn练习题**  
 1. seaborn高于0.8版本，需要显式使用seaborn样式：`sns.set()`
 2. 第2章，需要安装ipyweights（一个jupyter的插件）
 3. 第4章，需要安装statsmodels库
